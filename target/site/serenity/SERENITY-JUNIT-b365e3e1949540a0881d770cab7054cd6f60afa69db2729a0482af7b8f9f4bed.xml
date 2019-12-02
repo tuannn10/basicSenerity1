@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Lookup a definition" skipped="0" tests="2" time="34.43" timestamp="2019-11-24 11:14:31"><testcase name="Looking up the definition of 'apple'"/><testcase name="Looking up the definition of 'pear'"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created&#10;from chrome not reachable&#10;  (Session info: chrome=78.0.3904.97)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-U1G644E', ip: '192.168.10.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'&#10;Driver info: driver.version: ProvideNewDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x00A5A923+1550627]&#10;&#9;Ordinal0 [0x009DA731+1025841]&#10;&#9;Ordinal0 [0x0095C5BE+509374]&#10;&#9;Ordinal0 [0x009562F2+484082]&#10;&#9;Ordinal0 [0x009569CB+485835]&#10;&#9;Ordinal0 [0x00957B35+490293]&#10;&#9;Ordinal0 [0x00953AB5+473781]&#10;&#9;Ordinal0 [0x0095D360+512864]&#10;&#9;Ordinal0 [0x0090B649+177737]&#10;&#9;Ordinal0 [0x0090A8ED+174317]&#10;&#9;Ordinal0 [0x00908CDB+167131]&#10;&#9;Ordinal0 [0x008F144A+70730]&#10;&#9;Ordinal0 [0x008F24D0+74960]&#10;&#9;Ordinal0 [0x008F2469+74857]&#10;&#9;Ordinal0 [0x009F42F7+1131255]&#10;&#9;GetHandleVerifier [0x00AF711D+523789]&#10;&#9;GetHandleVerifier [0x00AF6EB0+523168]&#10;&#9;GetHandleVerifier [0x00AFE207+552695]&#10;&#9;GetHandleVerifier [0x00AF791A+525834]&#10;&#9;Ordinal0 [0x009EB82C+1095724]&#10;&#9;Ordinal0 [0x009F636B+1139563]&#10;&#9;Ordinal0 [0x009F64D3+1139923]&#10;&#9;Ordinal0 [0x009F5455+1135701]&#10;&#9;BaseThreadInitThunk [0x763C6359+25]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x779E7B74+228]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x779E7B44+180]&#10;). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created
+from chrome not reachable
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-U1G644E', ip: '192.168.10.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00A5A923+1550627]
+	Ordinal0 [0x009DA731+1025841]
+	Ordinal0 [0x0095C5BE+509374]
+	Ordinal0 [0x009562F2+484082]
+	Ordinal0 [0x009569CB+485835]
+	Ordinal0 [0x00957B35+490293]
+	Ordinal0 [0x00953AB5+473781]
+	Ordinal0 [0x0095D360+512864]
+	Ordinal0 [0x0090B649+177737]
+	Ordinal0 [0x0090A8ED+174317]
+	Ordinal0 [0x00908CDB+167131]
+	Ordinal0 [0x008F144A+70730]
+	Ordinal0 [0x008F24D0+74960]
+	Ordinal0 [0x008F2469+74857]
+	Ordinal0 [0x009F42F7+1131255]
+	GetHandleVerifier [0x00AF711D+523789]
+	GetHandleVerifier [0x00AF6EB0+523168]
+	GetHandleVerifier [0x00AFE207+552695]
+	GetHandleVerifier [0x00AF791A+525834]
+	Ordinal0 [0x009EB82C+1095724]
+	Ordinal0 [0x009F636B+1139563]
+	Ordinal0 [0x009F64D3+1139923]
+	Ordinal0 [0x009F5455+1135701]
+	BaseThreadInitThunk [0x763C6359+25]
+	RtlGetAppContainerNamedObjectPath [0x779E7B74+228]
+	RtlGetAppContainerNamedObjectPath [0x779E7B44+180]
+). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created
+from chrome not reachable
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-U1G644E', ip: '192.168.10.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00A5A923+1550627]
+	Ordinal0 [0x009DA731+1025841]
+	Ordinal0 [0x0095C5BE+509374]
+	Ordinal0 [0x009562F2+484082]
+	Ordinal0 [0x009569CB+485835]
+	Ordinal0 [0x00957B35+490293]
+	Ordinal0 [0x00953AB5+473781]
+	Ordinal0 [0x0095D360+512864]
+	Ordinal0 [0x0090B649+177737]
+	Ordinal0 [0x0090A8ED+174317]
+	Ordinal0 [0x00908CDB+167131]
+	Ordinal0 [0x008F144A+70730]
+	Ordinal0 [0x008F24D0+74960]
+	Ordinal0 [0x008F2469+74857]
+	Ordinal0 [0x009F42F7+1131255]
+	GetHandleVerifier [0x00AF711D+523789]
+	GetHandleVerifier [0x00AF6EB0+523168]
+	GetHandleVerifier [0x00AFE207+552695]
+	GetHandleVerifier [0x00AF791A+525834]
+	Ordinal0 [0x009EB82C+1095724]
+	Ordinal0 [0x009F636B+1139563]
+	Ordinal0 [0x009F64D3+1139923]
+	Ordinal0 [0x009F5455+1135701]
+	BaseThreadInitThunk [0x763C6359+25]
+	RtlGetAppContainerNamedObjectPath [0x779E7B74+228]
+	RtlGetAppContainerNamedObjectPath [0x779E7B44+180]
+). See below for more details.&#13;
+ntn.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)&#13;
+ntn.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

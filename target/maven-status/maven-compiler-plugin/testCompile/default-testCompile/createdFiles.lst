@@ -1,0 +1,4 @@
+ntn\pages\LoginShopee.class
+ntn\steps\serenity\LoginSteps.class
+ntn\steps\DefinitionSteps.class
+ntn\DefinitionTestSuite.class
