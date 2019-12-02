@@ -18,7 +18,7 @@ public class DefinitionSteps {
         anna.is_the_home_page();
     }
 
-
+/*
     @When("^The user provides valid zickzack(\\d+)@gmail\\.com and Qaz@(\\d+) account then attemp to login$")
     public void the_user_provides_valid_zickzack_gmail_com_and_Qaz_account_then_attemp_to_login(String username, String password) {
         // Write code here that turns the phrase above into concrete actions
@@ -32,14 +32,14 @@ public class DefinitionSteps {
         anna.starts_login();
     }
 
- /*
+ */
 
     @When("^The user provides valid (.+) and password account then attemp to login$")
     public void the_user_provides_valid_and_account_then_attemp_to_login(String username, String password) {
         anna.enters(username,password);
         anna.starts_login();
          }
-  */
+  
 
     @Then("^The Homepage is show login name$")
     public void the_homepage_is_show_login_name()  {
